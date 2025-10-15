@@ -55,3 +55,5 @@ Este documento serve tanto como um **manual prático** quanto uma **reflexão co
 
 ## VII. Relatório Forense Digital
 7.1 Principais elementos do relatório
+
+***
