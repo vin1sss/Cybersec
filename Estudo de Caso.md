@@ -4,7 +4,7 @@
 
 Em **23 de dezembro de 2015**, três distribuidoras de energia na Ucrânia sofreram um apagão causado deliberadamente por um ataque cibernético.  O incidente é considerado o primeiro ataque público bem‑sucedido contra **sistemas de controle de uma concessionária elétrica** e foi conduzido pelo grupo Sandworm (associado ao Estado russo), utilizando o **malware BlackEnergy 3** e módulos destrutivos como o **KillDisk**.  
 O ataque ocorreu durante a **Guerra Russo‑Ucraniana (2014–presente)** e foi amplamente atribuído a um **grupo de Ameaça Persistente Avançada (APT) russo conhecido como Sandworm**, tornando‑se a **primeira vez que um ataque cibernético provocou uma interrupção de energia elétrica**.  
-A interrupção durou cerca de seis horas, afetou aproximadamente **225.000 consumidores**, derrubou **50 subestações** e causou a perda de cerca de **130 MW** de energia.  Devido à destruição dos controladores e à interrupção das comunicações, a recuperação só foi possível com **operações manuais nas subestações**.
+A interrupção durou cerca de seis horas, afetou aproximadamente **225 000 consumidores**, derrubou **50 subestações** e causou a perda de cerca de **130 MW** de energia.  Devido à destruição dos controladores e à interrupção das comunicações, a recuperação só foi possível com **operações manuais nas subestações**.
 
 O ataque foi cuidadosamente cronometrado: ocorreu durante a **temporada de festas de fim de ano**, quando apenas equipes de plantão (“skeleton crew”) estavam presentes nos centros de controle.  Essa escolha dificultou a resposta rápida e aumentou o impacto do incidente.
 
